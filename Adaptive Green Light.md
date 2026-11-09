@@ -6,7 +6,7 @@
 **Higher pulse density (traffic sensor frequency) signals heavy traffic, prompting the core FSM to dynamically extend green-phase timer counts before triggering a state transition.**
 
 --- 
-  
+     
 ## Key Concepts Breakdown
 
 ### 1. Pulse Density (Input Metric)
