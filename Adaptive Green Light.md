@@ -1,6 +1,6 @@
 <img width="1216" height="527" alt="image" src="https://github.com/user-attachments/assets/baba6673-bf0d-446c-b278-f70ec6722d77" />
 
-# Adaptive Green Light Methodology & FSM Response   
+# Adaptive Green Light Methodology & FSM Response     
 
 ## One-Line Summary
 **Higher pulse density (traffic sensor frequency) signals heavy traffic, prompting the core FSM to dynamically extend green-phase timer counts before triggering a state transition.**
