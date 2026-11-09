@@ -23,7 +23,7 @@
    * **If Density > Threshold:** The module increases the target counter value of the green phase timer, holding the current green signal longer.
    * **If Density $\le$ Threshold:** The module retains or reduces the default timer limit to prevent empty lane idling.
 3. **State Transition Execution:**
-   * Once the dynamically calculated timer count is reached, the **Main FSM (8-bit Sequencer)** sequences to the yellow/red phase and transfers priority to the next traffic signal.
+   * Once the dynamically calculated timer count is reached, the **Main FSM (8-bit Sequencer)** sequences to the yellow/red phase and transfers priority to the next traffic signal. 
 
 ---
 
