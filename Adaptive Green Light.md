@@ -11,7 +11,7 @@
 
 ### 1. Pulse Density (Input Metric)
 * **What it represents:** The frequency of vehicle detection pulses received from sensors (e.g., induction loops, optical sensors, or radar) over a set time window.
-* **High Density:** High pulse rate $\rightarrow$ Heavy traffic volume detected. 
+* **High Density:** High pulse rate $\rightarrow$ Heavy traffic volume detected.  
 * **Low Density:** Low pulse rate $\rightarrow$ Light traffic volume or empty road.
 
 ---
